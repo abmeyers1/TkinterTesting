@@ -9,6 +9,8 @@ button_quit = Button(root, text='Exit program', command=root.quit())
 button_quit.pack()
 
 
+print('ok?')
+
 
 
 
